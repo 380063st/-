@@ -1,0 +1,14 @@
+C:\Users\saven\OneDrive\Рабочий стол\Итоговая\bin\Debug\net8.0\Итоговая.exe
+C:\Users\saven\OneDrive\Рабочий стол\Итоговая\bin\Debug\net8.0\Итоговая.deps.json
+C:\Users\saven\OneDrive\Рабочий стол\Итоговая\bin\Debug\net8.0\Итоговая.runtimeconfig.json
+C:\Users\saven\OneDrive\Рабочий стол\Итоговая\bin\Debug\net8.0\Итоговая.dll
+C:\Users\saven\OneDrive\Рабочий стол\Итоговая\bin\Debug\net8.0\Итоговая.pdb
+C:\Users\saven\OneDrive\Рабочий стол\Итоговая\obj\Debug\net8.0\Итоговая.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saven\OneDrive\Рабочий стол\Итоговая\obj\Debug\net8.0\Итоговая.AssemblyInfoInputs.cache
+C:\Users\saven\OneDrive\Рабочий стол\Итоговая\obj\Debug\net8.0\Итоговая.AssemblyInfo.cs
+C:\Users\saven\OneDrive\Рабочий стол\Итоговая\obj\Debug\net8.0\Итоговая.csproj.CoreCompileInputs.cache
+C:\Users\saven\OneDrive\Рабочий стол\Итоговая\obj\Debug\net8.0\Итоговая.dll
+C:\Users\saven\OneDrive\Рабочий стол\Итоговая\obj\Debug\net8.0\refint\Итоговая.dll
+C:\Users\saven\OneDrive\Рабочий стол\Итоговая\obj\Debug\net8.0\Итоговая.pdb
+C:\Users\saven\OneDrive\Рабочий стол\Итоговая\obj\Debug\net8.0\Итоговая.genruntimeconfig.cache
+C:\Users\saven\OneDrive\Рабочий стол\Итоговая\obj\Debug\net8.0\ref\Итоговая.dll
