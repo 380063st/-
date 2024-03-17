@@ -5,11 +5,6 @@
         string[] array1 = new string[5] { "1234", "1567", "-2", "computer science", ":-)" };
         string[] array2 = new string[array1.Length];
 
-            for (int i = 0; i < array1.Length; i++)
-                {
-                    Console.WriteLine(array1[i]);
-                }
-
         void SecondArrayWithIF(string[] array1, string[] array2)
         {
             int index = 0;
@@ -22,11 +17,17 @@
                 }
             }
         }
-        SecondArrayWithIF(array1, array2);
 
-        for (int i = 0; i < array2.Length; i++)
-                {
-                    Console.WriteLine(array2[i]);
-                }
+         void PrintArray(string[] array)
+        {
+            for (int i = 0; i < array.Length; i++)
+            {
+                Console.Write(array[i] + " ");
+            }
+            Console.WriteLine();
+        }
+        PrintArray(array1);
+        SecondArrayWithIF(array1, array2);
+        PrintArray(array2);
     }
 }
